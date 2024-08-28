@@ -13,6 +13,7 @@ Mint Classics Company, a retailer of classic model cars and other vehicles, is c
 These insights will help formulate suggestions and recommendations for reducing inventory, with the ultimate goal of closing one of the storage facilities.
 
 ## Repository Structure
+...
 
 ## Analysis and Findings
 ...

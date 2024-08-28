@@ -1,0 +1,5 @@
+warehouseCode,warehouseName,totalInventory,percentageCapacityUsed,inventoryRank
+b,East,219183,67,1
+a,North,131688,72,2
+c,West,124880,50,3
+d,South,79380,75,4

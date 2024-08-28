@@ -1,0 +1,5 @@
+warehouseCode,warehouseName,overstockedCount,understockedCount,balancedCount
+a,North,20,2,3
+b,East,32,1,5
+d,South,16,1,6
+c,West,21,1,2

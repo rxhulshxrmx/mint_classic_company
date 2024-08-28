@@ -1,0 +1,5 @@
+warehouseCode,warehouseName,numProducts,totalInventoryVolume,stagnantProducts,totalRevenue,pctCap
+b,East,38,5851766,1,3853922.49,67
+c,West,24,3439570,0,1797559.63,50
+d,South,23,2186871,0,1876644.83,75
+a,North,25,3659553,0,2076063.66,72
