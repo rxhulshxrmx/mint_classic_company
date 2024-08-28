@@ -1,0 +1,8 @@
+warehouseCode,warehouseName,productLine,unique_products,total_inventory,avg_inventory_per_product,total_revenue
+a,North,Motorcycles,13,1915517,5335.7019,1121426.12
+a,North,Planes,12,1744036,5190.5833,954637.54
+b,East,"Classic Cars",38,5851766,5788.0969,3853922.49
+c,West,"Vintage Cars",24,3439570,5235.2664,1797559.63
+d,South,"Trucks and Buses",11,1003828,3259.1818,1024113.57
+d,South,Ships,9,732251,2988.7796,663998.34
+d,South,Trains,3,450792,5565.3333,188532.92

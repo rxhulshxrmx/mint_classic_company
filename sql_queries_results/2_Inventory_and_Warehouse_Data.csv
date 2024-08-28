@@ -1,5 +1,5 @@
-warehouseCode,warehouseName,totalInventory,percentageCapacityUsed,inventoryRank
-b,East,219183,67,1
-a,North,131688,72,2
-c,West,124880,50,3
-d,South,79380,75,4
+warehouseCode,warehouseName,"Number of Active Customers",totalInventory,totalQuantityOrdered,InventoryTurnOverRatio,StockToSalesRatio
+c,West,90,3439570,22933,343.36,0.0029
+a,North,73,3659553,24650,394.27,0.0025
+d,South,81,2186871,22351,544.06,0.0018
+b,East,94,5851766,35582,665.84,0.0015

@@ -1,11 +1,11 @@
-customerNumber,customerName,order_count,total_spent,avg_fulfillment_time
-141,"Euro+ Shopping Channel",26,820689.54,3.5865
-124,"Mini Gifts Distributors Ltd.",17,591827.34,2.8876
-114,"Australian Collectors, Co.",5,180585.07,2.9636
-151,"Muscle Machine Inc",4,177913.95,2.3125
-119,"La Rochelle Gifts",4,158573.12,4.0000
-148,"Dragon Souveniers, Ltd.",5,156251.03,28.1163
-323,"Down Under Souveniers, Inc",5,154622.08,1.8696
-131,"Land of Toys Inc.",4,149085.15,1.9143
-187,"AV Stores, Co.",3,148410.09,1.9804
-450,"The Sharp Gifts Warehouse",4,143536.27,3.1429
+customerNumber,customerName,order_count,total_spent,avg_fulfillment_time,warehouse_distribution
+141,"Euro+ Shopping Channel",26,3282758.16,3.5865,"East: 65.38%, West: 57.69%, South: 46.15%, North: 30.77%"
+124,"Mini Gifts Distributors Ltd.",17,2367309.36,2.8876,"East: 82.35%, West: 76.47%, South: 70.59%, North: 11.76%"
+114,"Australian Collectors, Co.",5,722340.28,2.9636,"West: 80.00%, North: 60.00%, East: 40.00%, South: 20.00%"
+119,"La Rochelle Gifts",4,634292.48,4.0000,"West: 75.00%, South: 50.00%, North: 50.00%, East: 50.00%"
+148,"Dragon Souveniers, Ltd.",5,625004.12,28.1163,"East: 80.00%, South: 60.00%, West: 40.00%, North: 20.00%"
+323,"Down Under Souveniers, Inc",5,618488.32,1.8696,"East: 80.00%, West: 40.00%, North: 40.00%, South: 20.00%"
+131,"Land of Toys Inc.",4,596340.60,1.9143,"East: 75.00%, South: 50.00%, North: 50.00%, West: 25.00%"
+450,"The Sharp Gifts Warehouse",4,574145.08,3.1429,"West: 100.00%, North: 50.00%, East: 50.00%, South: 25.00%"
+382,"Salzburg Collectables",4,549920.28,3.4500,"East: 75.00%, West: 50.00%, North: 50.00%, South: 25.00%"
+496,"Kelly's Gift Shop",4,549843.16,3.0833,"West: 75.00%, North: 75.00%, South: 25.00%, East: 25.00%"
