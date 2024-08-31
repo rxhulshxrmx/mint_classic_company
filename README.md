@@ -21,8 +21,8 @@ rxhulshxrmx/
 │   └── README.md                   
 │
 ├── docs/                  
-│   ├── report.md                  
-│   └── README.md                   
+│   ├── images/                  
+│   └── report.md                   
 │
 ├── sql_queries/           
 │   ├── 1_Overview_of_Warehouse_and_Inventory.sql        
