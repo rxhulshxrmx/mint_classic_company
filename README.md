@@ -66,6 +66,3 @@ rxhulshxrmx/
 
 ## Analysis and Findings
 ...
-
-## Conclusion
-...
