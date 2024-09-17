@@ -73,3 +73,5 @@ The analysis reveals critical insights into Mint Classics Company's inventory, s
 4. Seasonal Trends: Strong sales in October and November indicate a need for improved inventory management ahead of these peak periods.
 5. Employee Performance: High-performing employees significantly contribute to sales; incentivizing them could drive further performance improvements.
 These findings point to areas where strategic adjustments could enhance operational efficiency and drive better results.
+
+For a comprehensive analysis and detailed findings, please refer to the [detailed report](docs/report.md).
