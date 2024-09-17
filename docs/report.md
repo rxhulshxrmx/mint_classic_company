@@ -110,10 +110,11 @@ North: Green
 
 8. **Employee Performance Analysis**
 
-**Objective:** 
+**Objective:** Evaluate and compare employee performance based on order count and total sales, identifying top performers and their impact on overall sales.
 
-**Insights:** 
-<a id="limitations-and-challenges"></a>
+**Insights:** High-performing employees, such as Gerard Hernandez and Leslie Jennings, significantly contribute to sales. Incentivizing these top performers could further boost their productivity and inspire others to excel, potentially increasing overall sales performance.
+
+![Figure_1](https://github.com/user-attachments/assets/f688ed56-8c2e-418e-ae17-f58a1d1223a5)
 
 
 <a id="recommedations"></a>
