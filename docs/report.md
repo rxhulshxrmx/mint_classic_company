@@ -121,16 +121,16 @@ North: Green
 
 ## Recommendations
 
-1. **Warehouse Optimization**: Consider redistributing products between warehouses to optimize space. This might allow the company to eliminate a warehouse, reducing overhead costs. Alternatively, Consider consolidating inventory from less utilized warehouses to more active ones. This can help in optimizing storage costs and might even lead to the closure or repurposing of a warehouse.
+1. **Warehouse Optimization**: Consider redistributing inventory from the South warehouse to the East and West warehouses. This may allow for the closure of the South warehouse, streamlining operations and reducing overhead costs.
+   
+2. **Inventory Management**: Adjust stock levels based on sales trends. Implement discounts, promotions, or bundling for overstocked items to accelerate their sale. For understocked products, increase stock levels to meet demand and prevent stockouts.
 
-2. **Inventory Management**: Adjust stock levels based on sales trends. Increase stock for products with a high sales-to-stock ratio and reduce stock for overstocked products. The products identified as potentially overstocked should be reviewed. Strategies such as discounts, promotions, or bundling with other products can be used to move these products faster. If these strategies don't work, consider discontinuing these products.
+3. **Product Line Review**: Review and potentially discontinue products with no sales. Evaluate marketing strategies to boost sales before making discontinuation decisions.
 
-3. **Product Line Review**: Products that have not been sold at all should be reviewed for discontinuation. Before making a final decision, consider if there are any marketing or promotional strategies that can be used to boost their sales.
-
-4. **Improve Shipping Efficiency**: Implement strategies to ensure more orders are shipped within 24 hours. This could include optimizing the order processing system, improving warehouse operations, or offering incentives for timely shipping.
+4. **Improve Shipping Efficiency**: Implement strategies to ensure more orders are shipped within 24 hours. This could involve optimizing order processing systems, enhancing warehouse operations, or offering incentives for timely shipping.
 
 <a id="conclusion"></a>
 
 ## Conclusions
 
-The analysis provides valuable insights into Mint Classics Company's operations. Implementing the recommendations can lead to cost savings, increased sales, and enhanced customer satisfaction. Looking forward, the company can expect improved operational efficiency and a stronger market position.
+The analysis highlights key areas for improvement in Mint Classics Company's operations. Implementing the recommendations can lead to cost savings, increased sales, and improved customer satisfaction. Enhanced operational efficiency and a stronger market position are expected outcomes.
