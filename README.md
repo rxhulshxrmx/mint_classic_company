@@ -59,8 +59,13 @@ rxhulshxrmx/
 │   ├── README.md                     
 │   └── .DS_Store                     
 │
+├── scripts/
+│   ├── Employee_Performance_Analysis.py
+│   ├── Order_Fulfillment_Time_Analysis.py
+│   └── Seasonal_Trends_in_Monthly_Revenue.py
+│
 ├── .gitignore             
-└── README.md           
+└── README.md   
 ```
 
 
