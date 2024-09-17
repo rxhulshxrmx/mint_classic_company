@@ -92,9 +92,12 @@ North: Green
 
 6. **Order Fulfillment Time Analysis**
 
-**Objective:** 
+**Objective:** Analyze the distribution of order fulfillment times to assess shipping efficiency and identify potential delays.
 
-**Insights:** 
+**Insights:** Order fulfillment times frequently exceed the 24-hour target, with most orders completed within 1 to 6 days. However, some orders take up to 65 days, revealing significant delays and opportunities for enhancing shipping efficiency.
+
+![Figure_1](https://github.com/user-attachments/assets/7ea437f5-d2c0-4bb6-a168-662e33093286)
+
 
 7. **Seasonal Trends Analysis**
 
