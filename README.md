@@ -65,4 +65,11 @@ rxhulshxrmx/
 
 
 ## Analysis and Findings
-...
+The analysis reveals critical insights into Mint Classics Company's inventory, sales, and operational efficiency. Key findings include:
+
+1. Warehouse Performance: The East warehouse leads in revenue, while the South warehouse underperforms, suggesting potential for warehouse consolidation.
+2. Shipping Efficiency: Order fulfillment times frequently exceed the 24-hour target, highlighting delays that need addressing.
+3. Product Stock Status: Overstocked products should be managed with promotions or discounts, while understocked items require increased stock levels.
+4. Seasonal Trends: Strong sales in October and November indicate a need for improved inventory management ahead of these peak periods.
+5. Employee Performance: High-performing employees significantly contribute to sales; incentivizing them could drive further performance improvements.
+These findings point to areas where strategic adjustments could enhance operational efficiency and drive better results.
