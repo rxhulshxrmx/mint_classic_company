@@ -55,6 +55,8 @@ Exploratory data analysis utilized SQL queries to extract and analyze data, reve
 **Objective:** Identifying the optimal warehouse for closure at Mint Classics Company by analyzing product line performance, inventory levels, and revenue.
 
 **Insights:** 
+https://files.oaiusercontent.com/file-CG6CyaZysD31NMPdYOQTUKre?se=2024-09-16T23%3A34%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3b5c21d8-bd85-4496-b2a6-7dae4f109297&sig=ZUKBtfdEsVsD5pRJXWEMV8g/PZLY/igsPTKfTtq9mos%3D![image](https://github.com/user-attachments/assets/5a01fdd7-2939-41f8-a586-e1ec508274c9)
+
 
 3. **Customer Order Pattern**
 
