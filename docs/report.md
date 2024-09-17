@@ -81,6 +81,9 @@ North: Green
 
 **Insights:** Based on the stock status analysis, it is recommended to discontinue products categorized as overstocked to prevent excess inventory and free up warehouse space. For understocked items, increasing stock levels or placing additional orders is advised to meet demand and prevent shortages. Regularly reviewing and adjusting inventory levels will help maintain a balanced stock status, optimizing both warehouse space and resource allocation.
 
+![Figure_1](https://github.com/user-attachments/assets/9baf9e42-3e66-40b0-9589-82796d339d66)
+
+
 5. **Unsold Inventory Age Analysis**
 
 **Objective:** 
