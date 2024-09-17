@@ -50,6 +50,7 @@ Exploratory data analysis utilized SQL queries to extract and analyze data, reve
 
 **Insights:** The South Warehouse has the highest capacity usage (75%), while East Warehouse holds the most inventory but has a stagnant product. West Warehouse is underutilized with low revenue, and North Warehouse operates efficiently but can improve further. These findings highlight opportunities for optimization.
 
+(East - Blue, West - Orange, South - Red, North - Green)
 ![image](https://github.com/user-attachments/assets/7db351ce-7a4a-46fd-9c8a-f64afd3150de)
 
 
