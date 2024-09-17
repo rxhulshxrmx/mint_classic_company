@@ -64,9 +64,12 @@ Exploratory data analysis utilized SQL queries to extract and analyze data, reve
 
 3. **Customer Order Pattern**
 
-**Objective:** 
+**Objective:** Assessing the contribution of key customers to overall company revenue and warehouse efficiency.
 
-**Insights:** 
+**Insights:** South warehouse has the lowest fulfillment percentages for most top customers, often falling below 50%, while East and West warehouses dominate. Despite handling high-revenue clients, South's contribution remains minimal, reinforcing the case for potential closure.
+
+![image](https://github.com/user-attachments/assets/fd22b37e-af4a-45e1-bf28-9b83598decbb)
+
 
 4. **Product Stock Status Analysis**
 
