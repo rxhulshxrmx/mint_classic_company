@@ -101,9 +101,12 @@ North: Green
 
 7. **Seasonal Trends Analysis**
 
-**Objective:** 
+**Objective:** Understand monthly revenue patterns over three years.
 
-**Insights:** 
+**Insights:** Sales peak in October and November, showing strong holiday demand. This suggests the need for better inventory management before these peak months to ensure stock is available and fulfill orders on time.
+
+![Figure_1](https://github.com/user-attachments/assets/bed0ddc4-2abe-4d6d-9cf9-e1f99a38d17d)
+
 
 8. **Employee Performance Analysis**
 
