@@ -54,7 +54,8 @@ Exploratory data analysis utilized SQL queries to extract and analyze data, reve
 
 **Objective:** Identifying the optimal warehouse for closure at Mint Classics Company by analyzing product line performance, inventory levels, and revenue.
 
-**Insights:** 
+**Insights:** All low-performing product lines belong to the South warehouse: Trains have the lowest revenue at $188k, Ships generate just $664k, and Trucks and Buses contribute $1.02 million, all below the average performance of other warehouses.
+
 ![image](https://github.com/user-attachments/assets/5a01fdd7-2939-41f8-a586-e1ec508274c9)
 
 
