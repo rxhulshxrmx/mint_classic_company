@@ -50,6 +50,9 @@ Exploratory data analysis utilized SQL queries to extract and analyze data, reve
 
 **Insights:** The South Warehouse has the highest capacity usage (75%), while East Warehouse holds the most inventory but has a stagnant product. West Warehouse is underutilized with low revenue, and North Warehouse operates efficiently but can improve further. These findings highlight opportunities for optimization.
 
+![image](https://github.com/user-attachments/assets/7db351ce-7a4a-46fd-9c8a-f64afd3150de)
+
+
 2. **Product Line Analysis**
 
 **Objective:** Identifying the optimal warehouse for closure at Mint Classics Company by analyzing product line performance, inventory levels, and revenue.
