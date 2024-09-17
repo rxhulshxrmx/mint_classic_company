@@ -96,7 +96,7 @@ North: Green
 
 **Insights:** Order fulfillment times frequently exceed the 24-hour target, with most orders completed within 1 to 6 days. However, some orders take up to 65 days, revealing significant delays and opportunities for enhancing shipping efficiency.
 
-![Figure_1](https://github.com/user-attachments/assets/7ea437f5-d2c0-4bb6-a168-662e33093286)
+![Figure_1](https://github.com/user-attachments/assets/d31361f1-915a-49e3-a90b-902111b9b076)
 
 
 7. **Seasonal Trends Analysis**
