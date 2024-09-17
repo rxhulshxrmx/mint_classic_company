@@ -80,3 +80,4 @@ The analysis reveals critical insights into Mint Classics Company's inventory, s
 These findings point to areas where strategic adjustments could enhance operational efficiency and drive better results.
 
 For a comprehensive analysis and detailed findings, please refer to the [detailed report](docs/report.md).
+Tableau Dashboard bit.ly/tableau_mint_classic
