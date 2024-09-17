@@ -88,7 +88,7 @@ North: Green
 
 **Objective:** Analyzing the age of unsold inventory to identify products that have been in stock for extended periods, which could indicate potential issues with demand or stock rotation.
 
-**Insights:** Products with a high number of days since the last order and significant quantities in stock may require strategic actions. Recommendations include reviewing the sales strategy for these items, considering markdowns or promotions to accelerate turnover, and optimizing inventory management to prevent future stock accumulation.
+**Insights:** Products with high stock and long days since last order may need discounts or promotional strategies to clear out inventory and improve turnover.
 
 6. **Order Fulfillment Time Analysis**
 
